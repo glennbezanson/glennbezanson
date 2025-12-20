@@ -31,12 +31,21 @@ hot take: **everyone's chasing better models when their actual problems are:**
 
 i call it **gen 2 ai** — or compound ai systems if you're into the berkeley papers. the value isn't in swapping gpt-4 for gpt-5. it's orchestration, gateways, data foundations, and governance that actually works.
 
+## background 📋
+
+built infrastructure at **global payments** where downtime = regulatory hell. did **M&A tech due diligence** at infor (nothing teaches you architecture like deciding what survives a merger). mass-scale enterprise systems across payments, healthcare, manufacturing.
+
+**certs:** PCI DSS ISA · ISO 27001 (currently run the ISMS at edge)
+
+no cs degree. learned by building things that had to work in production, at scale, in regulated industries where "move fast and break things" gets you fired.
+
 ## vibes ✨
 
 - 🧠 learn by building, not by tutorials
 - 🚀 ship working tools > write about working tools
-- 🔧 python, azure, claude api, too much yaml
-- ☕ powered by mass quantities of caffeine
+- 🏦 fintech + compliance background → ai governance
+- 🔧 python, azure, claude api, mass quantities of yaml
+- ☕ mass quantities of caffeine
 
 ## links 🔗
 

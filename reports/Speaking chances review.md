@@ -20,6 +20,8 @@ Spine, from your LinkedIn post: "treat model quality the way you treat uptime. B
 
 **Cautions.** The cause (cost-driven dial-back) is your theory and providers dispute it; lead with measured effect and present cause as "how I think it plays out". "Productivity fell to a tenth" is an impression, and Stella Laurenzo's data is hers: BSides, OWASP and DevOpsDays will want your own fixed eval set run over time. Check the figures against the source.
 
+**Timeliness.** You report fresh public complaints about a current model degrading, so the topic has a live hook; cite a recent example of your own choosing (I have not checked it).
+
 ## Where it fits
 
 | Audience | Fit | Why, or the frame it needs |
@@ -55,7 +57,7 @@ From a reseller, the on-prem half reads as a pitch unless it is a neutral framew
 1. **Lightning slots, Nov-Jan:** Atlanta Generative AI Group, Wednesd.AI, Mond(AI)y Coffee, AI Tinkerers.
 2. **Full meetup talk, Q1:** Azure in the ATL, then ISSA or OWASP.
 3. **Community conferences, spring:** DevOpsDays (Apr 20-21), Global Azure, Atlanta Cloud+AI.
-4. **Larger stages:** OAI (Mar 31 - Apr 1), BSides (October), M365 Community Days (November), then SecureWorld or a TAG panel.
+4. **Larger stages:** OAI (Mar 31 - Apr 1), BSides (October), M365 Community Days (November), then SecureWorld or TAG.
 
 ## Pay-to-play or closed
 
@@ -65,4 +67,4 @@ From a reseller, the on-prem half reads as a pitch unless it is a neutral framew
 
 ## Where the notes were too thin
 
-No speaker window was found for SecureWorld, Geek Week, Hacker Halted, IIA or any TAG event. OWASP chapter leaders are unnamed. KSU Breakfast Club format, Atlanta AI Week 2027 dates and route, and ASCCENT's return are unknown. Every "possible" on a demo night or partner co-presentation is inferred, not documented.
+No speaker window was found for SecureWorld, Geek Week, Hacker Halted, IIA or any TAG event. OWASP chapter leaders are unnamed. KSU Breakfast Club format, Atlanta AI Week 2027 dates and ASCCENT's return are unknown. Every "possible" on a demo night or partner co-presentation is inferred, not documented.

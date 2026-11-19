@@ -51,8 +51,6 @@ GAIT: a six-stage gated pipeline that forces architecture decisions before visua
 |------|--------------|
 | 🗂️ [sift-ai](https://github.com/glennbezanson/sift-ai) | ai file archiving that actually reads the documents |
 | 🎛️ [azure-model-manager](https://github.com/glennbezanson/azure-model-manager) | pyqt6 gui connecting azure ai foundry ↔ apim |
-| ✅ [foundry-health-check](https://github.com/glennbezanson/foundry-health-check) | checks azure ai configs for security, reliability and best practice |
-| 🔄 [azure_foundry_migrations](https://github.com/glennbezanson/azure_foundry_migrations) | moves apim + ai foundry between subscriptions |
 
 </details>
 

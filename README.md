@@ -9,14 +9,52 @@ while True:
     # the model isn't the product, the system is
 ```
 
-## currently building 🛠️
+## i do stuff 🛠️
 
-| project | what it does |
-|---------|--------------|
-| 🗂️ **[sift-ai](https://github.com/glennbezanson/sift-ai)** | ai-powered file chaos → organized archive. claude api + 10x parallel processing. 99%+ accuracy on enterprise document graveyards |
-| 🎛️ **[azure-model-manager](https://github.com/glennbezanson/azure-model-manager)** | pyqt6 gui that connects azure ai foundry ↔ apim. one interface to rule them all |
-| ✅ **[foundry-health-check](https://github.com/glennbezanson/foundry-health-check)** | are your azure ai configs actually good? this tells you (with receipts) |
-| 🔄 **[azure_foundry_migrations](https://github.com/glennbezanson/azure_foundry_migrations)** | move apim + ai foundry between subscriptions without losing your mind |
+most of what i'm building right now lives in private repos. it's still real.
+
+### 真髄 shinzui &nbsp;![private](https://img.shields.io/badge/repo-private-6e7681?style=flat-square) ![testing](https://img.shields.io/badge/status-small_test_group-d29922?style=flat-square)
+
+*"the true essence."* finds what's actually useful in everything you read. building since january.
+
+- 🧮 **counts independent sources** — 400 articles off three originals = three sources
+- 🧵 **traces claims to where they started** — first-hand reporting outranks a familiar name repeating something untraceable
+- 💰 **accounts for who's talking and what they sell**
+- ✂️ **drops rewrites, keeps real analysis**
+- 🎯 **ranks by reader** — a relevance profile built from your role, company and stack
+
+> drowning in the same feed? message me and i'll set you up with a profile.
+
+### 🚀 agent mission control &nbsp;![private](https://img.shields.io/badge/repo-private-6e7681?style=flat-square) ![active](https://img.shields.io/badge/status-active-2ea043?style=flat-square)
+
+an authorization broker for ai agents. agents are disposable and hold no access of their own.
+
+- ✍️ **signed requests** — every agent action starts as a request, not a credential
+- 🛂 **independent verification** — a privileged broker checks policy, approvals, identity, scope and timing
+- ⏱️ **temporary access only** — zero standing privilege
+- 🙋 **human approval for high-risk actions**
+- 🧾 **full audit trail and rapid containment**
+
+### 🌅 [daylight](https://github.com/glennbezanson/daylight) &nbsp;![public](https://img.shields.io/badge/repo-public-1f6feb?style=flat-square)
+
+llm personal assistant with structured temporal reasoning. a preprocessing pass gives the model real time awareness, beyond a timestamp.
+
+### 🏗️ [method-launch](https://github.com/glennbezanson/method-launch) &nbsp;![public](https://img.shields.io/badge/repo-public-1f6feb?style=flat-square)
+
+GAIT: a six-stage gated pipeline that forces architecture decisions before visual design, which removes the most common way ui builds go wrong.
+
+<details>
+<summary><b>earlier tools 🧰</b></summary>
+<br>
+
+| tool | what it does |
+|------|--------------|
+| 🗂️ [sift-ai](https://github.com/glennbezanson/sift-ai) | ai file archiving that actually reads the documents |
+| 🎛️ [azure-model-manager](https://github.com/glennbezanson/azure-model-manager) | pyqt6 gui connecting azure ai foundry ↔ apim |
+| ✅ [foundry-health-check](https://github.com/glennbezanson/foundry-health-check) | checks azure ai configs for security, reliability and best practice |
+| 🔄 [azure_foundry_migrations](https://github.com/glennbezanson/azure_foundry_migrations) | moves apim + ai foundry between subscriptions |
+
+</details>
 
 ## the take 🎯
 
